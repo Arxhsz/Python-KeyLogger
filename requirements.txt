@@ -1,0 +1,3 @@
+pynput==1.7.6
+requests==2.31.0
+tendo==0.2.12
