@@ -14,8 +14,8 @@ logging.basicConfig(
 
 # Server configuration
 SERVER_IP = "0.0.0.0"  # Listen on all network interfaces
-SERVER_PORT = 5555
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1068936615348666430/wOz8SkAqncHL8yvu2jGoBu159a8ANEdnpVLg_3IdfokRv3n2ybNJXUnbZYeEcqocuQJt"  # Replace with your webhook URL
+SERVER_PORT = "YOUR_SERVER_PORT_HERE"
+DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_HERE"  # Replace with your webhook URL
 
 # Global variables
 server_socket = None
