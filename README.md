@@ -46,4 +46,4 @@ This tool is intended for educational purposes only. Unauthorized use of keylogg
 
 ---
 
-**Note:** Make sure to use this tool only with proper authorization and adhere to all applicable laws and regulations.
+**Note:** Make sure to use this tool only with proper authorization and adhere to all applicable laws and regulations and this is not done at all this script can only work very localy ( your own computer ) and i havent coded it for other computers and or tried to.
